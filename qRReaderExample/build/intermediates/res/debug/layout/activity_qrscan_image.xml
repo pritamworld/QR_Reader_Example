@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="msquare.ye.com.msquaremallproject.QRScanImageActivity">
+
+    <TextView android:text="@string/hello_world" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvqrimage" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgQr"
+        android:layout_below="@+id/tvqrimage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="58dp"
+        android:src="@drawable/sample_qr_code" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Ye/Downloads/QRCodeReaderView-master/QRCodeReaderView-master/QR-ReaderExample/qRReaderExample/src/main/res/layout/activity_qrscan_image.xml -->

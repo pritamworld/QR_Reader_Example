@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QR-ReaderExample.iml" filepath="$PROJECT_DIR$/QR-ReaderExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidzxingcore301/androidzxingcore301.iml" filepath="$PROJECT_DIR$/androidzxingcore301/androidzxingcore301.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qRReaderExample/qRReaderExample.iml" filepath="$PROJECT_DIR$/qRReaderExample/qRReaderExample.iml" />
+    </modules>
+  </component>
+</project>

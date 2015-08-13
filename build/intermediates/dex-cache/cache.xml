@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ye\Downloads\QRCodeReaderView-master\QRCodeReaderView-master\QR-ReaderExample\qRReaderExample\build\intermediates\exploded-aar\QR-ReaderExample\androidzxingcore301\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="12d5ae6488855af422fa6e3d3b4e24732d8011a3">
+        <dex dex="C:\Users\Ye\Downloads\QRCodeReaderView-master\QRCodeReaderView-master\QR-ReaderExample\qRReaderExample\build\intermediates\pre-dexed\debug\classes-da8fd977cf01f3d0207a728451a1e087d513c2a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ye\Downloads\QRCodeReaderView-master\QRCodeReaderView-master\QR-ReaderExample\qRReaderExample\build\intermediates\exploded-aar\QR-ReaderExample\androidzxingcore301\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="39646280ab47f10dadf93d65f4a3069ec856c15f">
+        <dex dex="C:\Users\Ye\Downloads\QRCodeReaderView-master\QRCodeReaderView-master\QR-ReaderExample\qRReaderExample\build\intermediates\pre-dexed\debug\classes-da8fd977cf01f3d0207a728451a1e087d513c2a3.jar" />
+    </item>
+
+</items>

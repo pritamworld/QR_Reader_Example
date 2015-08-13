@@ -1,0 +1,3 @@
+include ':qRReaderExample'
+
+include ':androidzxingcore301'
